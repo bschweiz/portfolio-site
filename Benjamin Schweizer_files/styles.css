@@ -21,8 +21,8 @@ html {
   #mainNav .navbar-toggler {
     font-size: 80%;
     padding: 0.75rem;
-    color: #758C42;
-    border: 1px solid #758C42;
+    color: #45ADA8;
+    border: 1px solid #45ADA8;
   }
 
   #mainNav .navbar-toggler:focus {
@@ -72,7 +72,7 @@ html {
       color: white;
     }
     #mainNav.navbar-shrink {
-      background-color: #D2D7D9;
+      background-color: #547980;
     }
     #mainNav.navbar-shrink .navbar-brand {
       color: #161616;
@@ -83,15 +83,15 @@ html {
       border-bottom: 0.25rem solid transparent;
     }
     #mainNav.navbar-shrink .nav-link:hover {
-      color: #758C42;
+      color: #45ADA8;
     }
     #mainNav.navbar-shrink .nav-link:active {
-      color: #52591C;
+      color: #547980;
     }
     #mainNav.navbar-shrink .nav-link.active {
-      color: #758C42;
+      color: #45ADA8;
       outline: none;
-      border-bottom: 0.25rem solid #758C42;
+      border-bottom: 0.25rem solid #45ADA8;
     }
   }
 
@@ -158,26 +158,26 @@ html {
   }
 
   .btn-primary {
-    background-color: #758C42;
+    background-color: #45ADA8;
   }
 
   .btn-primary:hover {
-    background-color: #52591C;
+    background-color: #547980;
   }
 
   .btn-primary:focus {
-    background-color: #52591C;
+    background-color: #547980;
     color: white;
   }
 
   .btn-primary:active {
-    background-color: #52591C !important;
+    background-color: #547980 !important;
   }
 
   .about-section {
     padding-top: 6rem;
-    background: -webkit-gradient(linear, left top, left bottom, from(#161616), color-stop(75%, rgba(22, 22, 22, 0.9)), to(rgba(22, 22, 22, 0.8)));
-    background: linear-gradient(to bottom, #161616 0%, rgba(22, 22, 22, 0.9) 75%, rgba(22, 22, 22, 0.8) 100%);
+    background: -webkit-gradient(linear, left top, left bottom, from(#161616), color-stop(75%, rgba(22, 22, 22, 0.9)), to(rgba(89, 79, 79, 0.8)));
+    background: linear-gradient(to bottom, #161616 0%, rgba(22, 22, 22, 0.9) 75%, rgba(89, 79, 79, 0.8) 100%);
   }
 
   .about-section p {
@@ -193,7 +193,7 @@ html {
     font-size: rem;
     line-height: 5rem;
     letter-spacing: 0.8rem;
-    background: -webkit-linear-gradient(#52591C,#758C42);
+    background: -webkit-linear-gradient(#547980,#45ADA8);
     -webkit-text-fill-color: transparent;
     -webkit-background-clip: text;
   }
@@ -205,7 +205,7 @@ html {
   @media (min-width: 992px) {
     .projects-section .featured-text {
       padding: 0 0 0 2rem;
-      border-left: 0.5rem solid #758C42;
+      border-left: 0.5rem solid #45ADA8;
     }
   }
 
@@ -219,7 +219,7 @@ html {
       padding: 2rem;
     }
     .projects-section .project-text hr {
-      border-color: #758C42;
+      border-color: #45ADA8;
       border-width: .25rem;
       width: 45%;
     }
@@ -263,7 +263,7 @@ html {
 
   .contact-section .card {
     border: 0;
-    border-bottom: 0.25rem solid #758C42;
+    border-bottom: 0.25rem solid #45ADA8;
   }
 
   .contact-section .card h4 {
@@ -274,7 +274,7 @@ html {
   }
 
   .contact-section .card hr {
-    border-color: #758C42;
+    border-color: #45ADA8;
     border-width: 0.25rem;
     width: 3rem;
   }
@@ -308,7 +308,7 @@ html {
   }
 
   a {
-    color: #758C42;
+    color: #45ADA8;
   }
 
   a:focus, a:hover {
@@ -322,11 +322,11 @@ html {
   }
 
   .bg-primary {
-    background-color: #758C42 !important;
+    background-color: #45ADA8 !important;
   }
 
   .text-primary {
-    color: #758C42 !important;
+    color: #45ADA8 !important;
   }
 
   footer {
@@ -365,7 +365,7 @@ html {
   }
 
   .thumbnail-button {
-    background-color: #758C42;
+    background-color: #45ADA8;
     color: white;
     font-size: 1rem;
     padding: 16px 32px;
