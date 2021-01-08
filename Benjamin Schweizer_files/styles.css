@@ -333,23 +333,23 @@ html {
     padding: 5rem 0;
   }
 
-  /* .sprint-container {
+  /* .thumbnail-container {
     left: -50%;
     transition: transform 2s linear;
     transform: translateX(100%);
   } */
 
-  .sprint-image{
+  .thumbnail-image{
     opacity: 1;
     transition: .5s ease;
   }
 
-  .sprint-container:hover .sprint-image{
+  .thumbnail-container:hover .thumbnail-image{
     opacity: 0.3;
     transition: .5s ease;
   }
 
-  .sprint-middle {
+  .thumbnail-middle {
     transition: .5s ease;
     opacity: 0;
     position: absolute;
@@ -360,11 +360,11 @@ html {
     text-align: center;
   }
 
-  .sprint-container:hover .sprint-middle {
+  .thumbnail-container:hover .thumbnail-middle {
     opacity: 1;
   }
 
-  .sprint-button {
+  .thumbnail-button {
     background-color: #758C42;
     color: white;
     font-size: 1rem;
